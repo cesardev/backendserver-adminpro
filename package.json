@@ -1,0 +1,16 @@
+{
+  "name": "backend-server",
+  "version": "1.0.0",
+  "description": "Servidor backend del curso de angular avamzado\u001b[D\u001b[D\u001b[D\u001b[n",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17"
+  }
+}
